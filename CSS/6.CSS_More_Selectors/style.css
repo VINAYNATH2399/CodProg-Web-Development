@@ -1,0 +1,41 @@
+/* *{
+    color: blue;
+} */
+
+*{
+    padding:0;
+    margin:10;
+}
+
+
+header{
+    background-color: #f0ebeb;
+}
+
+section.my-article{
+    background-color: #f2e9e9;
+}
+
+.paragraph{
+    color:red;
+}
+
+li a{
+    color:green;
+}
+
+section.my-article>h2{
+      color: green;
+}
+
+h2+p{
+    color:orange;
+}
+
+ul+p{
+    color:yellow;
+}
+
+section.my-article h2+p{   /* section ka class jo article h usme h2 ke baad jo p h uska colour change hoga */
+    color:blue;
+}

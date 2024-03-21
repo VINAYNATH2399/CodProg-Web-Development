@@ -1,0 +1,2 @@
+agar apko next line m jana ho toh uska short cut:-  ctrl+enter
+class likhne ka shortcut for example .main-header

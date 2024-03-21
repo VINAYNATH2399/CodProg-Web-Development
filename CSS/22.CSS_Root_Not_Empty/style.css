@@ -1,0 +1,37 @@
+/*Not, Empty, Root */
+
+/* :not(p){
+    color:blue;
+} */
+
+/*isme jo p nhi h uska colour change ho jaye*/
+    /* body :not(.para){    
+    color:blue;
+    font-size: 50px;
+} */
+    /* body :not(){    
+    color:blue;
+    font-size: 50px;
+} */
+
+
+/* div:empty{
+    color:yellowgreen;
+    width:50px;
+    height:50px; 
+    background-color:black;
+} */
+
+/*root ka specity jada hoga html se*/
+:root{
+    background-color:aqua;
+    color: white;
+}
+
+/* html{
+    background-color:red;
+    color: white;
+} */
+
+
+

@@ -1,0 +1,38 @@
+/* *{ */
+    /* margin:30px; */
+    /* margin-left:20px; */
+    /* margin-right:20px; */
+    
+/* } */
+.container{
+    width: 700px;
+    margin: auto;
+}
+
+h1{
+    background-color:grey;
+    border:1px;
+    padding: 2px;
+    text-align: center;
+    text-transform: uppercase;
+    /* margin-left:20px;
+    margin-right:20px; */
+}
+
+.some, .lilly{
+    border:2px solid black;
+    /* margin-left:20px;
+    margin-right:20px; */
+    padding:10px;
+}
+
+/* .lilly{
+    border:2px solid black;
+    margin-left:20px;
+    margin-right:20px;
+    padding:10px;
+} */
+
+.some{
+    margin-bottom:20px;
+}

@@ -1,0 +1,14 @@
+h1{
+    font-size:40px;
+    letter-spacing:3px;
+    text-decoration:underline dotted;
+    
+}
+
+p{
+    /* font-size:30px; */
+    font-style: italic;
+    letter-spacing:2px;
+    word-spacing:2px;
+    line-height:40px;
+}

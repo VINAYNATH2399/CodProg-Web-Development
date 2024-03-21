@@ -1,0 +1,29 @@
+/*link, visited, hover, active*/
+/* jab bhi hm isse use karenge hme dhyan rakhna hoga ki 
+L V H A format m hi ho*/
+a:link{
+   color:lightgreen;
+}
+
+a:visited{
+    color:green;
+}
+
+a:hover{
+     color:violet
+}
+
+a:active{
+    color:blue;
+}
+
+p:hover{
+     font-size:15px;
+     font: bold;
+     font-style: italic;
+     line-height:50px;
+}
+
+p:active{
+    color:blue;
+}

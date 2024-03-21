@@ -1,0 +1,19 @@
+/* *{
+    margin:0;
+    padding:0;
+} */
+
+h1{
+    font-weight: 400px;
+}
+
+p{
+    /* font weight main normal hi 400px hota h */
+    font-weight:normal;
+    /* font-weight: 500; */
+    /* font-weight:bold; */
+    /* font-weight:bold; */
+    
+    /* font-family: 'Cedarville Cursive'; */
+    font-family: 'Dancing Script', 'cursive';
+}

@@ -1,0 +1,18 @@
+/* a{
+    border: 2px solid black; */
+    /* margin:50px; */
+    /* padding:500px; */
+    /* height:100px; */
+    /* width: 100px; */
+/* }  */ 
+
+/*jab mujhe sab kuch control karna ho height width padding margin tab m inline block ka use karunga*/
+
+a{
+    border:2px solid black;
+    display:inline-block;
+    margin:20px;
+    padding:20px;
+    width:150px;
+    height: 100px;
+}

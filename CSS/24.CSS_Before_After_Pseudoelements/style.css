@@ -1,0 +1,14 @@
+/* p::after{
+    content:'vinay nath';
+    color: blue;
+    display: block;
+    border:2px solid green;
+} */
+p::before{
+    content:'vinay nath';
+    color: blue;
+    display: block;
+    border:2px solid green;
+
+}
+

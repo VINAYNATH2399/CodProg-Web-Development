@@ -1,0 +1,39 @@
+/* input[type ="text"]{
+    color:red;
+    background-color:aliceblue;
+} */
+
+input[type ^='t']{
+    color:red;
+    background-color:aliceblue;
+}
+
+
+input[type="password"]{
+    background-color:pink;
+}
+
+/* a[href="https://google.co.in"]{
+    color:violet;
+} */
+
+/* a[href *='google']{
+    color:green;
+} */
+
+/* a[href ^="https"]{
+    color:darkmagenta;
+} */
+
+a[href *="https"]{
+    color:darkmagenta;
+}
+
+/* $ is only use for .com */
+/* a[href $='.com']{
+    color:green;
+} */
+/* 
+ a[href *='.com']{
+    color:green;
+}  */

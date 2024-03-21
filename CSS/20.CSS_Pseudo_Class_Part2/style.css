@@ -1,0 +1,12 @@
+input:focus{
+    padding:2px;
+    font-size:30px;
+    /* border:2px solid violet; */
+    outline:none;
+    color: blueviolet;
+}
+
+input:required{
+    color: brown;
+    /* font-size: 10px; */
+}

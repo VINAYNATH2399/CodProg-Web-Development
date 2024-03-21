@@ -1,0 +1,14 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading{
+    background-color: #cdcdcd;
+}
+#h2{
+    background-color:#ababab;
+}
+p{
+    color:lightgreen;
+    background-color:black;
+}
